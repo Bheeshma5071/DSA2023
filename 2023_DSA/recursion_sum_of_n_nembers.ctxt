@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=recursion_sum_of_n_nembers
+comment1.params=n
+comment1.target=void\ main(int)
+comment2.params=i\ n\ add
+comment2.target=void\ sum(int,\ int,\ int)
+numComments=3

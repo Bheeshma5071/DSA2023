@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=recursion_factorial
+comment1.params=n
+comment1.target=void\ main(int)
+comment2.params=pro\ n
+comment2.target=void\ fact(int,\ int)
+numComments=3

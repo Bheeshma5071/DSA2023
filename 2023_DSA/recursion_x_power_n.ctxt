@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=recursion_x_power_n
+comment1.params=x\ n
+comment1.target=void\ main(int,\ int)
+comment2.params=x\ n\ i
+comment2.target=int\ power(int,\ int,\ int)
+numComments=3

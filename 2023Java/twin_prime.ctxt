@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=twin_prime
+comment1.params=a\ b
+comment1.target=void\ main(int,\ int)
+comment2.params=n
+comment2.target=int\ prime(int)
+numComments=3

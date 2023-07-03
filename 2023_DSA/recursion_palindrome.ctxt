@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=recursion_palindrome
+comment1.params=n
+comment1.target=void\ main(int)
+comment2.params=n\ add\ x
+comment2.target=void\ pal(int,\ int,\ int)
+numComments=3

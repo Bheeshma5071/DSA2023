@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=recursion_perfect_testing
+comment1.params=n
+comment1.target=void\ main(int)
+comment2.params=n\ i\ c
+comment2.target=void\ fact(int,\ int,\ int)
+numComments=3
