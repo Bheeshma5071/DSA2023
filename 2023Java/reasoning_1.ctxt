@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=reasoning_1
+comment1.params=n\ a
+comment1.target=void\ main(int,\ int)
+comment2.params=n\ a\ i
+comment2.target=void\ out(int,\ int,\ int)
+numComments=3
