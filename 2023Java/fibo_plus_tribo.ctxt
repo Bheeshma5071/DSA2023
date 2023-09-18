@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=fibo_plus_tribo
+comment1.params=n
+comment1.target=void\ main(int)
+comment2.params=n
+comment2.target=int[]\ fibo(int)
+comment3.params=n
+comment3.target=int[]\ tribo(int)
+numComments=4
